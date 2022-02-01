@@ -2,7 +2,7 @@
 
 - ⚡ From Hamburg, Germany
 - 🌱 I’m currently working on my TypeScript skills
-- 🥅 2021 Goals: Get a college place
+- 🥅 2022 Goals: Working on my Laravel skill
 
 <br />
 
