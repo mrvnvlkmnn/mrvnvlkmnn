@@ -1,8 +1,8 @@
 ### Hi there, I'm Marvin
 
 - ⚡ From Hamburg, Germany
-- 🌱 I’m currently working on my TypeScript skills
-- 🥅 2024 Goals: Getting Contentful certified
+- 🌱 currently working on my Medusa.js project
+- 🥅 2025 Goal: Getting Cloud certified
 
 <br />
 
